@@ -14,7 +14,7 @@ export default async (Atlas, anu) => {
       try {
         ppuser = await Atlas.profilePictureUrl(num, "image");
       } catch {
-        ppuser = "https://i.imgur.com/MClOeqe.jpeg";
+        ppuser = "https://i.postimg.cc/0jf60mBt/file-00000000e03071f4a712d9092c0d50fe.png";
       }
 
       if (anu.action == "add") {

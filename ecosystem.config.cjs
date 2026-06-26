@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "Atlas",
+      name: "𝗦𝗨𝗣𝗥𝗘𝗠𝗘 𝗔𝗟𝗜",
       script: "index.js",
       cwd: __dirname,
       env: {

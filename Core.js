@@ -408,8 +408,8 @@ export default async (Atlas, m, commands, chatUpdate) => {
     let upTxt = `〘  ${botName} Personal Edition  〙    ⚡ Uptime: ${uptime()}`;
     Atlas.setStatus(upTxt);
 
-    cmd.start(Atlas, m, {
-      name: "Atlas",
+    cmd.start(sᴜᴘʀᴇᴍᴇ ᴀʟɪ ʙᴏᴛ, m, {
+      name: "𝗦𝗨𝗣𝗥𝗘𝗠𝗘 𝗔𝗟𝗜",
       metadata,
       pushName: pushname,
       participants,
